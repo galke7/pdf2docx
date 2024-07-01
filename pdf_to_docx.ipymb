@@ -1,5 +1,5 @@
 # Install the necessary requirements
-!pip install -r /mnt/data/requirements.txt
+!pip install -r requirements.txt
 
 # Import the required libraries
 import os
