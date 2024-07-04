@@ -1,5 +1,5 @@
 
-### **Stories for Enhanced OCR Capabilities**
+## Stories for Enhanced OCR Capabilities
 
 **Story 1**: Research and Selection of OCR Libraries and Models
 - **Description**: Investigate existing OCR libraries and machine learning models suitable for enhancing OCR accuracy.
@@ -45,7 +45,7 @@
 
 ---
 
-### **Stories for Document Quality Enhancement Pre-Processing**
+## Stories for Document Quality Enhancement Pre-Processing
 
 **Story 6**: Research Image Processing Techniques for Document Enhancement
 - **Description**: Research and evaluate image processing techniques to enhance the quality of scanned documents.
