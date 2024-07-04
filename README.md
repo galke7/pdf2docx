@@ -1,4 +1,4 @@
-```markdown
+
 # PDF to DOCX Converter
 
 This project provides a GUI-based tool to convert PDF files to DOCX format. The application uses Python and several libraries to achieve this functionality. The graphical user interface (GUI) is built using Tkinter.
@@ -97,4 +97,3 @@ This project provides a GUI-based tool to convert PDF files to DOCX format. The 
 ## License
 
 This project is licensed under the                     GNU GENERAL PUBLIC LICENSE V3. See the [LICENSE](LICENSE) file for more details.
-```
